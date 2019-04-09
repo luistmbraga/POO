@@ -9,4 +9,4 @@ Comentários:
 Atenção aos "static"!! Muitas críticas!! Tem de se saber defender o porquê de usar.
 
 
-Não usar class.getClass().getSimpleName().equals("NomeDaClasse"), usar antes: class instanceof NomeDaClasse
+Não usar object.getClass().getSimpleName().equals("NomeDaClasse"), usar antes: object instanceof NomeDaClasse
