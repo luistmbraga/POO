@@ -7,3 +7,6 @@ Nota: 14 valores
 Comentários:
 
 Atenção aos "static"!! Muitas críticas!! Tem de se saber defender o porquê de usar.
+
+
+Não usar class.getClass().getSimpleName().equals("<nome da classe>"), usar antes: class instanceof <nome da classe>
